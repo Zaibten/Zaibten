@@ -71,7 +71,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://i.pinimg.com/originals/ac/0b/71/ac0b718d995deda3e1e4ee893501324d.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt=".net" width="100" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://www.cdnlogo.com/logos/t/34/tailwind-css.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://img.icons8.com/color/600w/assembly.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://img.freepik.com/premium-vector/digital-marketing-logo-design_626969-523.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">

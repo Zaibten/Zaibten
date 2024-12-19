@@ -35,11 +35,6 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
 ## 🛠️ **Tech Explorer’s Toolkit: Expertise That Drives Innovation** ⚙️
 
 ### **Languages & Tools I Work With** 🔧
-
-## 🛠️ **Tech Explorer’s Toolkit: Expertise That Drives Innovation** ⚙️
-
-### **Languages & Tools I Work With** 🔧
-
 <div align="center" style="background-color: white; padding: 10px; border-radius: 15px; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/4b305d1d-4bf8-4eaf-8d54-8a0ef87ad77b" alt="c" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">

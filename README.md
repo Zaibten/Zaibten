@@ -40,7 +40,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
 
 ### **Languages & Tools I Work With** 🔧
 
-<div align="center" style="background-color: white; padding: 10px; border-radius: 15px; display: inline-block;">
+<div align="center" style="background-color: grey; padding: 10px; border-radius: 15px; display: inline-block;">
     <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="c" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">

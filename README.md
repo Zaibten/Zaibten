@@ -1,8 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
-    <img src="https://github.com/user-attachments/assets/02a8a87a-5bd1-4ec6-adb7-55fa1b90a55e" alt="loader" width="500" height="200">
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/02a8a87a-5bd1-4ec6-adb7-55fa1b90a55e" alt="loader" width="800" height="100">
 </div>
-
-
 # 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡
 
 ## 🌟 *"Charting the Path of Progress Through Unmatched Expertise, Creativity, and Cutting-Edge Solutions"* 🌟

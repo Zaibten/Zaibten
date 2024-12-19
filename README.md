@@ -183,7 +183,6 @@ I believe in the power of **innovation**, **hard work**, and **collaboration** t
     <a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
         <img src="https://img.freepik.com/premium-vector/art-illustration_929495-41.jpg?semt=ais_hybrid" alt="Facebook" width="60" height="60" style="border-radius: 50%; margin: 5px;">
     </a>
-
     <a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" width="60" height="60" style="border-radius: 50%; margin: 5px;">
     </a>

@@ -181,12 +181,19 @@ I believe in the power of **innovation**, **hard work**, and **collaboration** t
 
 <div align="center">
     <a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
-        <img src="https://img.freepik.com/premium-vector/art-illustration_929495-41.jpg?semt=ais_hybrid" alt="Facebook" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+        <img src="https://github.com/user-attachments/assets/f2d26ec5-0e42-419f-a1b0-7f05d1276d0f" alt="Facebook" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
     <a href="https://www.instagram.com/muzamilkhan_508/" target="_blank">
-        <img src="https://img.freepik.com/premium-vector/instagram-logo-vector-illustration_1300495-24.jpg" alt="Instagram" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+        <img src="https://github.com/user-attachments/assets/28460a88-b56f-41c1-8966-7f5be220440f" alt="Instagram" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
     <a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+        <img src="https://github.com/user-attachments/assets/e4044e6b-a759-4301-b918-885ea0c01675" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
+    <a href="#" target="_blank">
+        <img src="https://github.com/user-attachments/assets/54c72d83-ba76-4b8c-a41b-a941dc93543f" alt="youtube" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    </a>
+   <a href="https://wa.me/923363506933" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+</a>
 </div>
+

@@ -1,4 +1,4 @@
-# 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡
+# 🚀 **Pioneering the Future of Technology with Innovation and Expertise** 💡
 
 ## 🌟 *"Charting the Path of Progress Through Unmatched Expertise, Creativity, and Cutting-Edge Solutions"* 🌟
 

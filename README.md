@@ -1,9 +1,32 @@
-<img src="https://github.com/user-attachments/assets/02a8a87a-5bd1-4ec6-adb7-55fa1b90a55e" alt="loader" width="100" height="100" />
+<div style="display: flex; align-items: center; gap: 20px; padding: 20px; background: linear-gradient(145deg, #1e293b, #111827); border-radius: 12px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
+    <img src="https://github.com/user-attachments/assets/02a8a87a-5bd1-4ec6-adb7-55fa1b90a55e" alt="loader" style="width: 100px; height: 100px; animation: spin 3s linear infinite; border-radius: 50%; box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);">
+    <h1 style="color: #ffffff; font-family: 'Arial', sans-serif; font-size: 24px; animation: fadeIn 2s ease-out; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);">
+        🚀 <strong>Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise</strong> 💡
+    </h1>
+</div>
 
-![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6c666d69674d58784a76355a4f513d3d2d3736323239303538382e313562343164646664633761393131633238393532363](https://github.com/user-attachments/assets/f9a46018-8033-46fa-be13-7186bda213f9)
+<style>
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
 
+    @keyframes fadeIn {
+        0% {
+            opacity: 0;
+            transform: translateY(-20px);
+        }
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
 
-# 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡
 
 ## 🌟 *"Charting the Path of Progress Through Unmatched Expertise, Creativity, and Cutting-Edge Solutions"* 🌟
 

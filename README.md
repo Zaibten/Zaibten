@@ -41,7 +41,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
 ### **Languages & Tools I Work With** 🔧
 
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://www.shareicon.net/download/2016/07/10/119874_apps_512x512.png" alt="React" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Python_logo_2020.svg" alt="Python" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Node.js_logo_2015.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; margin: 5px;">

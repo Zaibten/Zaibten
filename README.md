@@ -36,6 +36,10 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
 
 ### **Languages & Tools I Work With** 🔧
 
+## 🛠️ **Tech Explorer’s Toolkit: Expertise That Drives Innovation** ⚙️
+
+### **Languages & Tools I Work With** 🔧
+
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Python_logo_2020.svg" alt="Python" width="50" height="50" style="border-radius: 50%; margin: 5px;">
@@ -61,6 +65,8 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/TensorFlow_logo.svg" alt="TensorFlow" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Machine_Learning_logo.svg" alt="ML" width="50" height="50" style="border-radius: 50%; margin: 5px;">
 </div>
+
+---
 
 ---
 

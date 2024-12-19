@@ -41,7 +41,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
 ### **Languages & Tools I Work With** 🔧
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 15px; display: inline-block;">
-    <img src="https://www.shutterstock.com/image-vector/emblem-c-plus-programming-language-600nw-1764554240.jpg" alt="c" width="50" height="60" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGGOif2hN0ojHqVg2OZDQgERhHVD70MoaDg&s" alt="c" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">

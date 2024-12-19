@@ -41,7 +41,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
 ### **Languages & Tools I Work With** 🔧
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 15px; display: inline-block;">
-    <img src="https://www.shutterstock.com/image-vector/emblem-c-plus-programming-language-600nw-1764554240.jpg" alt="c" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://www.shutterstock.com/image-vector/emblem-c-plus-programming-language-600nw-1764554240.jpg" alt="c" width="50" height="60" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
@@ -52,11 +52,11 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-TVphB148wg1omRxgqXTMk9lDbLyunCmdw&s" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://e7.pngegg.com/pngimages/272/497/png-clipart-wordpress-logo-theme-wordpress-blue-trademark-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
@@ -75,7 +75,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://www.cdnlogo.com/logos/t/34/tailwind-css.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://img.icons8.com/color/600w/assembly.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://img.freepik.com/premium-vector/digital-marketing-logo-design_626969-523.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRNPproQHtjXgpgoUqYo0D36jFTQ9NMrTww&s" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">

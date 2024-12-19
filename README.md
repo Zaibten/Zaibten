@@ -180,16 +180,13 @@ I believe in the power of **innovation**, **hard work**, and **collaboration** t
 ## 🌟 **Follow Me on Social Media** 🌟
 
 <div align="center">
-    <a href="https://www.facebook.com/Muzamilofficial" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
         <img src="https://img.freepik.com/premium-vector/art-illustration_929495-41.jpg?semt=ais_hybrid" alt="Facebook" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
-    <a href="https://www.instagram.com/Muzamilofficial" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <a href="https://www.instagram.com/muzamilkhan_508/" target="_blank">
+        <img src="https://img.freepik.com/premium-vector/instagram-logo-vector-illustration_1300495-24.jpg" alt="Instagram" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
-    <a href="https://twitter.com/Muzamilofficial" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.png" alt="Twitter" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    </a>
-    <a href="https://www.linkedin.com/in/Muzamilofficial" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
 </div>

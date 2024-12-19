@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/8cc07a2a-d4eb-4090-aab4-4c826886fb85)<div align="center">
     <img src="https://github.com/user-attachments/assets/c2dbd696-780d-4e1f-ad8e-06e84d375309" alt="loader" width="400" height="250">
 </div>
 
@@ -41,32 +41,39 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
 ### **Languages & Tools I Work With** 🔧
 
 <div align="center">
-    <img src="https://www.shareicon.net/download/2016/07/10/119874_apps_512x512.png" alt="React" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Python_logo_2020.svg" alt="Python" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Node.js_logo_2015.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Django_logo.svg" alt="Django" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_MySQL.svg" alt="MySQL" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Android_Logo_2019.png" alt="Android" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Android_Studio_Logo_2021.png" alt="Android Studio" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Shopify_logo_2018.svg" alt="Shopify" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Flutter_logo_2021.svg" alt="Flutter" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/.NET_Logo.svg" alt=".NET" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/WordPress_Logo_2013.svg" alt="WordPress" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/C%2B%2B_logo.svg" alt="C++" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/C_Programming_Language_logo.svg" alt="C" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/HTML5_Logo_512.png" alt="HTML" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/CSS3_logo.svg" alt="CSS" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Java_logo_200x200.png" alt="Java" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Jupyter.svg" alt="Jupyter" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_AWS.png" alt="AWS" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/TensorFlow_logo.svg" alt="TensorFlow" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Machine_Learning_logo.svg" alt="ML" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="c" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://logos-download.com/wp-content/uploads/2022/12/Bootstrap_Logo.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small/javascript-logo-javascript-icon-transparent-free-png.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://e7.pngegg.com/pngimages/272/497/png-clipart-wordpress-logo-theme-wordpress-blue-trademark-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/2560px-TensorFlow_logo.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://thumbs.dreamstime.com/z/creative-machine-learning-logo-artificial-intelligence-icon-technology-computing-concept-abstract-flat-vector-illustration-106384910.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-monochrome-deep-learning-icon-for-web-design-and-infographics-vector-png-image_12220837.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://i.pinimg.com/736x/e5/35/6c/e5356c9766b49e62e80a631f821611dd.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://static.vecteezy.com/system/resources/previews/006/030/600/non_2x/abstract-cloud-logo-blue-shape-cloud-computing-isolated-on-white-background-usable-for-business-and-technology-logos-flat-logo-design-template-element-vector.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://img.freepik.com/premium-vector/technology-data-server-logo-design-templates_24599-761.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://img.icons8.com/color/600w/assembly.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://img.freepik.com/premium-vector/digital-marketing-logo-design_626969-523.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
 </div>
-
----
 
 ---
 

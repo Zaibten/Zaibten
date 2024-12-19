@@ -190,10 +190,9 @@ I believe in the power of **innovation**, **hard work**, and **collaboration** t
         <img src="https://github.com/user-attachments/assets/e4044e6b-a759-4301-b918-885ea0c01675" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
     <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/54c72d83-ba76-4b8c-a41b-a941dc93543f" alt="youtube" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+        <img src="https://github.com/user-attachments/assets/54c72d83-ba76-4b8c-a41b-a941dc93543f" alt="YouTube" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
-   <a href="https://wa.me/923363506933" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-</a>
+    <a href="https://wa.me/923363506933" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    </a>
 </div>
-

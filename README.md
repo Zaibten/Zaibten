@@ -196,8 +196,3 @@ I believe in the power of **innovation**, **hard work**, and **collaboration** t
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     </a>
 </div>
-
----
-
-#PythonDeveloper #WebDevelopment #Django #MachineLearning #DataScience #AIProgramming #Flask #CarPricePrediction #DataAnalysis #TechInnovation #CodingLife #SoftwareEngineering #PythonCoding #Automation #FullStackDevelopment #FlaskApp #PythonProjects #MachineLearningModels #DataVisualization #DeepLearning #TechCommunity #AIModels #WebAppDevelopment #TechEntrepreneur #TechStack #CloudComputing #TechForGood
-

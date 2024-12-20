@@ -78,7 +78,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://img.freepik.com/premium-vector/web-design-logo-vector-templet_1070930-291.jpg?semt=ais_hybrid" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D-IfTA58NONTORVfigb72pKqp8hHiEm7SA&s" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D-IfTA58NONTORVfigb72pKqp8hHiEm7SA&s" alt=".net" width="50" height="40" style="border-radius: 50%; margin: 5px; background-color: transparent;">
 </div>
 
 ---

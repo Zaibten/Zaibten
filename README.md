@@ -32,8 +32,6 @@ I believe that **collaboration** and **creativity** are the keys to success. My 
 
 My diverse and comprehensive skill set allows me to explore, create, and deliver technology solutions that are robust, scalable, and future-proof. Here’s a look at the technologies and tools I work with:
 
-## 🛠️ **Tech Explorer’s Toolkit: Expertise That Drives Innovation** ⚙️
-
 ### **Languages & Tools I Work With** 🔧
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 15px; display: inline-block;">

@@ -49,8 +49,8 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-TVphB148wg1omRxgqXTMk9lDbLyunCmdw&s" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-TVphB148wg1omRxgqXTMk9lDbLyunCmdw&s" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt=".net" width="80" height="80" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://3.imimg.com/data3/OS/PH/MY-10228819/microsoft-sql-server-250x250.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt=".net" width="60" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">

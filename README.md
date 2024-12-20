@@ -64,7 +64,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://img.freepik.com/premium-vector/technology-data-server-logo-design-templates_24599-761.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUaDjGczuu5b038vjXDstYNwIUtEc7rS3Fw&s" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    <img src="https://i.pinimg.com/originals/ac/0b/71/ac0b718d995deda3e1e4ee893501324d.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/e69b9fe3-fa99-4260-94a6-fa1cdd173bb3" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
     <img src="https://allvectorlogo.com/img/2017/07/openai-logo.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px;">
@@ -78,7 +78,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://img.freepik.com/premium-vector/web-design-logo-vector-templet_1070930-291.jpg?semt=ais_hybrid" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D-IfTA58NONTORVfigb72pKqp8hHiEm7SA&s" alt=".net" width="50" height="40" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D-IfTA58NONTORVfigb72pKqp8hHiEm7SA&s" alt=".net" width="50" height="30" style="border-radius: 50%; margin: 5px; background-color: transparent;">
 </div>
 
 ---

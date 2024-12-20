@@ -53,7 +53,7 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
     <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt=".net" width="60" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
+    <img src="https://i.pinimg.com/736x/4d/fc/38/4dfc38802784bcf687f616e7e5a4370c.jpg" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://e7.pngegg.com/pngimages/272/497/png-clipart-wordpress-logo-theme-wordpress-blue-trademark-thumbnail.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/2560px-TensorFlow_logo.svg.png" alt=".net" width="50" height="50" style="border-radius: 50%; margin: 5px; background-color: transparent;">

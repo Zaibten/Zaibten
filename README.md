@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/c2dbd696-780d-4e1f-ad8e-06e84d375309" alt="loader" height="250">
 </div>
+![image](https://github.com/user-attachments/assets/fbd75a09-c1c9-4099-b8d8-28150aa3b952)
 
 # 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡
 

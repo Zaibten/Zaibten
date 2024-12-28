@@ -1,7 +1,6 @@
-<div align="center" style="width: 100%;">
-    <img src="https://github.com/user-attachments/assets/71c4b793-bbc0-4602-aac0-9891c36d3c24" alt="loader" style="width: 100%; height: 250px; object-fit: cover;">
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/c2dbd696-780d-4e1f-ad8e-06e84d375309" alt="loader" height="250">
 </div>
-
 
 # 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡
 

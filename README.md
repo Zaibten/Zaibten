@@ -4,47 +4,13 @@
 
 ---
 
-<div align="center" style="position: relative;">
-  <!-- Add a background animation -->
-  <div style="
-      background: linear-gradient(120deg, #3498db, #8e44ad, #e74c3c);
-      background-size: 300% 300%;
-      height: 10px;
-      width: 100%;
-      animation: gradientShift 6s infinite;
-      margin-bottom: 10px;
-  "></div>
-
+<div align="center">
+  
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Zaibten+Technologies;🔍+Innovating+With+AI;🌟+Crafting+Modern+Solutions;🌐+Empowering+Digital+Transformation!" alt="Typing SVG">
-
-  <!-- Add a pulse animation to the text -->
-  <h2 style="
-      font-family: 'Arial', sans-serif;
-      color: #2c3e50;
-      margin-top: 20px;
-      animation: pulse 2s infinite;
-  ">
-    Leading the Future of Technology
-  </h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&center=true&vCenter=true&width=800&lines=🚀+Zaibten+Technologies;🔍+Innovating+With+AI;🌟+Crafting+Modern+Solutions;🌐+Empowering+Digital+Transformation!" alt="Typing SVG">
+  
+  ## **Leading the Future of Technology**
 </div>
-
-<!-- Add custom CSS animations -->
-<style>
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.1); opacity: 0.8; }
-  100% { transform: scale(1); opacity: 1; }
-}
-</style>
-
-
 ---
 
 # 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡

@@ -1,79 +1,70 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/c2dbd696-780d-4e1f-ad8e-06e84d375309" alt="loader" height="250" style="animation: rotateImage 5s linear infinite;">
+  <img src="https://github.com/user-attachments/assets/c2dbd696-780d-4e1f-ad8e-06e84d375309" alt="loader" height="250">
 </div>
 
-# 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡
-
----
+<h1 align="center">
+  <a href="https://github.com/username">
+    🚀 Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise 💡
+  </a>
+</h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&color=36BCF7&width=600&lines=Welcome+to+My+World+of+Code;Innovating+One+Project+at+a+Time!;Driven+by+Technology%2C+Fueled+by+Passion." alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F6F7F9&center=true&vCenter=true&width=600&lines=👨‍💻+Full-Stack+Developer;🌟+AI+Expert+%26+Innovator;🎯+Solving+Tomorrow's+Problems;🌍+Passionate+Tech+Explorer!" alt="Typing SVG">
 </div>
 
 ---
 
-## 🌟 *"Charting the Path of Progress Through Unmatched Expertise, Creativity, and Cutting-Edge Solutions"* 🌟
+### 🌟 *"Charting the Path of Progress Through Unmatched Expertise, Creativity, and Cutting-Edge Solutions"* 🌟
 
-Welcome to my GitHub profile! I’m **Muzamil**, a dedicated **Tech Explorer** with a passion for transforming challenges into impactful solutions. Leveraging expertise in **Full-Stack Development**, **AI**, and **Innovation**, I create scalable, user-centric applications that redefine business success.
-
----
-
-## 🌍 **Vision: Shaping Tomorrow’s Digital Landscape Today** ✨
-
-> “Explore the unknown. Innovate relentlessly. Build a future empowered by technology.”
-
-I aim to harness the latest tech trends to craft creative and practical solutions that enable businesses to thrive in a competitive digital world.
+Welcome to my GitHub profile! I’m **Muzamil**, a dedicated **Tech Explorer** with an unwavering passion for turning complex challenges into simple, intuitive, and impactful solutions.
 
 ---
 
-## 🎯 **Mission: Empowering Businesses to Reach New Heights Through Technology** 🚀
+<h2 align="center">🌍 Vision: Shaping Tomorrow’s Digital Landscape Today</h2>
 
-As a **Tech Explorer**, I partner with businesses to:
-- **Navigate complexities** of the digital age.
-- Design **scalable and innovative solutions**.
-- **Exceed expectations** with every project.
+> “Exploration is in my DNA. Through technology, I seek to empower businesses to innovate, grow, and succeed.”
 
 ---
 
-## 🛠️ **Tech Explorer’s Toolkit** ⚙️
+<h2 align="center">🛠️ Tech Explorer’s Toolkit</h2>
 
-### **Languages & Tools I Excel In:**
+<div align="center" style="padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #282c34, #3c3f47); box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
+  <a href="https://github.com/username">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,typescript,nodejs,java,mysql,mongodb,bootstrap&theme=dark" alt="Skills" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">🎯 Mission: Empowering Businesses</h2>
+
+I specialize in designing solutions tailored for **scalability**, **sustainability**, and **innovation**. Every line of code is crafted to exceed expectations.
+
+---
+
+### 🎨 **Modern Animations Preview**
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,react,nodejs,html,css,bootstrap,mysql,mongodb,typescript,django,figma" alt="Languages & Tools">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" height="300">
+  <p>🚀 Coding in Action | Explore & Innovate</p>
 </div>
 
 ---
 
-## 📊 **GitHub Stats:**
+<h2 align="center">✨ Let's Connect!</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuzamilKhan&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuzamilKhan&theme=radical" alt="Streak Stats">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 ---
 
-## ✨ **Projects That Inspire:**
-
-- **[AI-Powered Sentiment Analysis](https://github.com/yourprojectlink):** Revolutionizing sentiment analysis for multilingual reviews.
-- **[Dynamic Portfolio](https://github.com/yourprojectlink):** A fully customizable portfolio with sleek animations and modern UI.
-- **[E-Commerce Dashboard](https://github.com/yourprojectlink):** Optimized and feature-rich dashboards for analytics.
-
----
-
-## 🌈 **Let’s Connect!** 💬
-
-Feel free to reach out for collaborations or to discuss new ideas:
-- **Email:** [muzamilkhanofficial786@gmail.com](mailto:muzamilkhanofficial786@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muzamilkhan)
-- **Portfolio:** [Visit Here](https://muzamilportfolio.com)
-
----
-
-<style>
-@keyframes rotateImage {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-}
-</style>
+### ⚡ **Pro Tip**: Click the ⭐ button to stay updated!

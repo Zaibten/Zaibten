@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F6F7F9&center=true&vCenter=true&width=600&lines=👨‍💻+Full-Stack+Developer;🌟+AI+Expert+%26+Innovator;🎯+Solving+Tomorrow's+Problems;🌍+Passionate+Tech+Explorer!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&&center=true&vCenter=true&width=600&lines=👨‍💻+Full-Stack+Developer;🌟+AI+Expert+%26+Innovator;🎯+Solving+Tomorrow's+Problems;🌍+Passionate+Tech+Explorer!" alt="Typing SVG">
 </div>
 
 ---
@@ -66,3 +66,22 @@ I specialize in designing solutions tailored for **scalability**, **sustainabili
 ---
 
 ### ⚡ **Pro Tip**: Click the ⭐ button to stay updated!
+
+---
+
+### **Languages & Tools I Work With** 🔧
+
+<div align="center" style="background-color: white; padding: 10px; border-radius: 15px; display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/4b305d1d-4bf8-4eaf-8d54-8a0ef87ad77b" alt="c" width="50" height="50" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="50" height="50" style="margin: 5px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="50" height="50" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt="Python" width="50" height="50" style="margin: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" alt="Bootstrap" width="50" height="50" style="margin: 5px;">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="50" height="50" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50" style="margin: 5px;">
+</div>
+
+---
+
+### 🌀 Additions
+Feel free to customize with additional icons and animations for further interactivity!

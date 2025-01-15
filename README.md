@@ -2,6 +2,51 @@
     <img src="https://github.com/user-attachments/assets/c2dbd696-780d-4e1f-ad8e-06e84d375309" alt="loader" height="250">
 </div>
 
+---
+
+<div align="center" style="position: relative;">
+  <!-- Add a background animation -->
+  <div style="
+      background: linear-gradient(120deg, #3498db, #8e44ad, #e74c3c);
+      background-size: 300% 300%;
+      height: 10px;
+      width: 100%;
+      animation: gradientShift 6s infinite;
+      margin-bottom: 10px;
+  "></div>
+
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Zaibten+Technologies;🔍+Innovating+With+AI;🌟+Crafting+Modern+Solutions;🌐+Empowering+Digital+Transformation!" alt="Typing SVG">
+
+  <!-- Add a pulse animation to the text -->
+  <h2 style="
+      font-family: 'Arial', sans-serif;
+      color: #2c3e50;
+      margin-top: 20px;
+      animation: pulse 2s infinite;
+  ">
+    Leading the Future of Technology
+  </h2>
+</div>
+
+<!-- Add custom CSS animations -->
+<style>
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.1); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+</style>
+
+
+---
+
 # 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡
 
 ## 🌟 *"Charting the Path of Progress Through Unmatched Expertise, Creativity, and Cutting-Edge Solutions"* 🌟
@@ -197,3 +242,7 @@ I believe in the power of **innovation**, **hard work**, and **collaboration** t
 
 ---
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" height=auto>
+  <p>🚀 Coding in Action | Explore & Innovate</p>
+
+---

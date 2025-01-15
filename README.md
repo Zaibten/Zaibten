@@ -1,83 +1,82 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&color=3BF0DB&center=true&vCenter=true&width=800&lines=Welcome+to+My+Tech+Universe+🌌;Innovating+the+Future+🚀;Exploring+Possibilities+Beyond+Limits+🌟" alt="Welcome Animation">
+    <img src="https://github.com/user-attachments/assets/c2dbd696-780d-4e1f-ad8e-06e84d375309" alt="loader" height="250">
 </div>
+
+<h1 align="center" style="animation: fadeInDown 2s ease-in-out;">🚀 <strong>Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise</strong> 💡</h1>
 
 ---
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Muzamil-Khan-blue?style=for-the-badge" alt="Name Badge"> 
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Skills-Coding%20%7C%20AI%20%7C%20ML%20%7C%20Full%20Stack%20Dev-green?style=flat-square&logo=github&logoColor=white" alt="Skills Badge">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%98%85%E2%98%85%E2%98%85-brightgreen?style=flat-square" alt="Contributor Badge">
-</p>
+<h2 align="center" style="animation: fadeInUp 2s ease-in-out; color: #007acc;">🌟 *"Charting the Path of Progress Through Unmatched Expertise, Creativity, and Cutting-Edge Solutions"* 🌟</h2>
 
 <div align="center">
-  <img src="https://github.com/motion/animejs/blob/main/anime-hero.png?raw=true" alt="Main Banner" height="250">
+    <img src="https://github.com/user-attachments/assets/c2dbd696-780d-4e1f-ad8e-06e84d375309" alt="animated-tech-banner" style="width: 80%; animation: zoomIn 2s ease-in-out;">
 </div>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🌍 <span style="color: #2d89ef;">**Vision: Shaping Tomorrow’s Digital Landscape Today** ✨</span>
 
-> 🌍 Based in **Karachi, Pakistan**  
-> 🛠️ Crafting scalable, user-friendly applications.  
-> 🌟 Passionate about **AI/ML**, **Web Development**, and **Solving Real-World Problems**.
+In the fast-paced world of technology, I believe in exploring the unknown, constantly learning, and pushing the boundaries of what's possible. My vision as a **Tech Explorer** is to lead businesses into the future by leveraging cutting-edge technologies to solve tomorrow's problems, today.
 
 ---
 
-<h2 align="center">💼 Tech Stack</h2>
+## 🎯 <span style="color: #6fa2e7;">**Mission: Empowering Businesses to Reach New Heights Through Technology** 🚀</span>
+
+As a **Tech Explorer**, my mission is to help businesses navigate the complexities of the digital world, providing them with the tools, strategies, and technology needed to thrive in today’s competitive landscape.
+
+---
+
+## 🛠️ **Tech Explorer’s Toolkit: Expertise That Drives Innovation** ⚙️
+
+<h3 align="center" style="animation: fadeIn 1.5s ease-in-out;">Languages & Tools I Work With</h3>
+<div align="center" style="animation: bounceIn 2s ease-in-out; display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="60" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="60" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt="Python" width="60" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" alt="JavaScript" width="60" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://logos-download.com/wp-content/uploads/2022/12/Bootstrap_Logo.svg" alt="Bootstrap" width="60" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="React" width="60" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</div>
+
+---
+
+## 🖥️ <span style="color: #ff6f61;">Projects</span>
+Here are some of the key projects that highlight my journey as a **Tech Explorer**:
+
+### **🚀 AI-Powered Solutions**
+- Leveraged advanced ML algorithms to create predictive models for business success.
+  
+### **🌟 Web Applications**
+- Built intuitive, user-friendly, and scalable web platforms with cutting-edge frameworks.
+
+### **📱 Mobile Apps**
+- Designed sleek, high-performance apps using native and hybrid technologies.
+
+---
+
+## ✨ <span style="color: #47c8ff;">Let’s Build the Future Together!</span>
+
+Want to collaborate? Feel free to reach out! My inbox is always open for questions, project ideas, or simply a tech talk!
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,flask,tailwind,bootstrap,mongodb,mysql,git&theme=light" alt="Tech Stack" />
+    <a href="mailto:muzamilkhanofficial786@gmail.com" style="background-color: #007acc; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">📩 Get in Touch</a>
 </div>
 
 ---
 
-<h2 align="center">🌌 Portfolio Highlight</h2>
+### CSS Animations Example (For Inline Page Effects)
 
-<div align="center" style="background: linear-gradient(to right, #3f5efb, #ff00c6); border-radius: 15px; padding: 20px;">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Animated Showcase" height="200">
-  <p style="color: white; font-family: 'Poppins', sans-serif;">Check out my latest <strong><a href="https://github.com/username" style="color: #FFD700;">Projects</a></strong> and how I’m pushing boundaries in tech!</p>
-</div>
-
----
-
-<h2 align="center">📈 My GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact" alt="Top Languages">
-</div>
-
----
-
-<h2 align="center">⚡ Let's Connect</h2>
-
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
----
-
-<h2 align="center">✨ Signature Quote</h2>
-
-> _“Creativity is seeing what others see and thinking what no one else ever thought.”_ – **Albert Einstein**
-
----
-
-### How to Customize This Template:
-1. **Personalization**: Replace `yourusername` and `youremail@example.com` with your own details.
-2. **Dynamic Animations**: Add unique GIFs or animated SVGs tailored to your field.
-3. **Modern Tools**: Use [Shields.io](https://shields.io) for badges and [Skillicons.dev](https://skillicons.dev) for tech icons.
-4. **Make It Yours**: Highlight specific projects or skills to stand out.
+```css
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes bounceIn {
+  0% { transform: scale(0.3); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+@keyframes zoomIn {
+  from { transform: scale(0.5); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}

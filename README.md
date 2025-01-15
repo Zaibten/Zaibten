@@ -25,7 +25,6 @@
       margin-top: 20px;
       animation: pulse 2s infinite;
   ">
-    Leading the Future of Technology
   </h2>
 </div>
 

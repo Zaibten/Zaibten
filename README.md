@@ -43,7 +43,7 @@ I specialize in designing solutions tailored for **scalability**, **sustainabili
 ### 🎨 **Modern Animations Preview**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" height="300">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" height=auto>
   <p>🚀 Coding in Action | Explore & Innovate</p>
 </div>
 

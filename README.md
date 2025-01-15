@@ -4,13 +4,31 @@
 
 ---
 
-<div align="center">
-  
+<div align="center" style="position: relative;">
+  <!-- Add a background animation -->
+  <div style="
+      background: linear-gradient(120deg, #3498db, #8e44ad, #e74c3c);
+      background-size: 300% 300%;
+      height: 10px;
+      width: 100%;
+      animation: gradientShift 6s infinite;
+      margin-bottom: 10px;
+  "></div>
+
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&center=true&vCenter=true&width=800&lines=🚀+Zaibten+Technologies;🔍+Innovating+With+AI;🌟+Crafting+Modern+Solutions;🌐+Empowering+Digital+Transformation!" alt="Typing SVG">
-  
-  ## **Leading the Future of Technology**
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Zaibten+Technologies;🔍+Innovating+With+AI;🌟+Crafting+Modern+Solutions;🌐+Empowering+Digital+Transformation!" alt="Typing SVG">
+
+  <!-- Add a pulse animation to the text -->
+  <h2 style="
+      font-family: 'Arial', sans-serif;
+      color: #2c3e50;
+      margin-top: 20px;
+      animation: pulse 2s infinite;
+  ">
+    Leading the Future of Technology
+  </h2>
 </div>
+
 ---
 
 # 🚀 **Tech Explorer: Pioneering the Future of Technology with Innovation and Expertise** 💡
@@ -189,21 +207,40 @@ I believe in the power of **innovation**, **hard work**, and **collaboration** t
 ## 🌟 **Follow Me on Social Media** 🌟
 
 <div align="center">
-    <a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
-        <img src="https://github.com/user-attachments/assets/f2d26ec5-0e42-419f-a1b0-7f05d1276d0f" alt="Facebook" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    </a>
-    <a href="https://www.instagram.com/muzamilkhan_508/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/28460a88-b56f-41c1-8966-7f5be220440f" alt="Instagram" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    </a>
-    <a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/e4044e6b-a759-4301-b918-885ea0c01675" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/54c72d83-ba76-4b8c-a41b-a941dc93543f" alt="YouTube" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    </a>
-    <a href="https://wa.me/923363506933" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50" style="border-radius: 50%; margin: 5px;">
-    </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:muzamilkhanofficials@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/muzamilkhan_508/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/923363506933" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  
+  <!-- YouTube -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </div>
 
 ---

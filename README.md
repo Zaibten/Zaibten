@@ -63,68 +63,9 @@ My diverse and comprehensive skill set allows me to explore, create, and deliver
 
 ### **Languages & Tools I Work With** 🔧
 
-<div align="center" style="padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #282c34, #3c3f47); box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
-  <!-- Skills Section -->
-  <a href="https://github.com/username">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,typescript,nodejs,java,mysql,mongodb,bootstrap&theme=dark" alt="Skills" />
-  </a>
-  <h3 style="color: white; margin-top: 10px;">Technologies I Work With</h3>
-  <ul style="list-style-type: none; padding: 0; margin: 10px 0 0 0; color: white; font-size: 16px;">
-    <li>C Programming Language (ISO C)</li>
-    <li>C++ Programming Language</li>
-    <li>C# Programming Language</li>
-    <li>Python Programming Language</li>
-    <li>.NET Framework</li>
-    <li>Bootstrap Framework</li>
-    <li>JavaScript</li>
-    <li>React (JavaScript Library)</li>
-    <li>Android Development</li>
-    <li>Microsoft SQL Server</li>
-    <li>MySQL Database</li>
-    <li>Firebase (Cloud Platform)</li>
-    <li>MongoDB (Database)</li>
-    <li>WordPress (Content Management System)</li>
-    <li>TensorFlow (Machine Learning Framework)</li>
-    <li>Deep Learning/AI Technologies</li>
-    <li>Cloud Computing</li>
-    <li>Data Server/Technology</li>
-    <li>TypeScript</li>
-    <li>Docker (Containerization Platform)</li>
-    <li>OpenAI (AI Technologies)</li>
-    <li>Tailwind CSS (Utility-first CSS Framework)</li>
-    <li>Assembly Language</li>
-    <li>Digital Marketing</li>
-    <li>API (Application Programming Interface)</li>
-    <li>Web Design</li>
-    <li>Adobe Photoshop (Graphics Editing)</li>
-    <li>Blender (3D Modeling and Animation)</li>
-  </ul>
-  <!-- Social Media Links -->
-  <div align="center">
-    <a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:youremail@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/yourusername">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-    <a href="https://www.instagram.com/muzamilkhan_508/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://wa.me/923363506933" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-  </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,typescript,nodejs,java,mysql,mongodb,bootstrap,c,cpp,csharp,.net,android,sql,firebase,tensorflow,ai,cloud,tailwind,docker,openai,assembly,marketing,api,wordpress,photoshop,blender&theme=dark" alt="Skills" />
 </div>
-
 
 ---
 

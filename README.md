@@ -203,26 +203,40 @@ I believe in the power of **innovation**, **hard work**, and **collaboration** t
 ## 🌟 **Follow Me on Social Media** 🌟
 
 <div align="center">
-  <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/muzamilkhan_508/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<!-- WhatsApp -->
-<a href="https://wa.me/923363506933" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-
+<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:muzamilkhanofficials@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/muzamilkhan_508/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/923363506933" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  
+  <!-- YouTube -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </div>
 
 ---

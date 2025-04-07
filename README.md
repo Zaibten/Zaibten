@@ -13,7 +13,7 @@
   "></div>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Zaibten+Info;🔍+Innovating+With+AI;🌟+Crafting+Modern+Solutions;🌐+Empowering+Digital+Transformation!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Zaibten+Technologies;🔍+Innovating+With+AI;🌟+Crafting+Modern+Solutions;🌐+Empowering+Digital+Transformation!" alt="Typing SVG">
 
   <!-- Add a pulse animation to the text -->
   <h2 style="

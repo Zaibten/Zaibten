@@ -184,7 +184,7 @@ Feel free to reach out, and let’s discuss how we can embark on this exciting j
 
 - **Email**: muzamilkhanofficials@gmail.com 📧
 - **Phone**: +92 3363506933 📱
-- **GitHub**: [github.com/Muzamilofficial](https://github.com/Muzamilofficial) 💻
+- **GitHub**: [github.com/Zaibten](https://github.com/Zaibten) 💻
 
 ---
 

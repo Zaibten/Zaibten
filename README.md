@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:8b5cf6,100:ec4899&height=260&section=header&text=MUZAMIL-DEV%20%2F%2F%20v2026.1&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20%2B%20Applied-AI%20Engineer%20%E2%80%94%20Model%20Card&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:8b5cf6,100:ec4899&height=280&section=header&text=MUZAMIL-DEV%20%2F%2F%20v2026.1&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%2B%20Applied-AI%20Engineer&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=%3E+Initializing+profile...;%3E+Loading+capabilities.json...;%3E+Model+ready." alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%3E+booting+profile...;%3E+loading+capabilities.json...;%3E+model+ready" alt="boot sequence"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/pipeline__tag-software--engineering-6366f1?style=flat-square&labelColor=1e293b"/>
-<img src="https://img.shields.io/badge/library-react%20%7C%20nextjs%20%7C%20flutter%20%7C%20node-8b5cf6?style=flat-square&labelColor=1e293b"/>
-<img src="https://img.shields.io/badge/region-pakistan-ec4899?style=flat-square&labelColor=1e293b"/>
-<img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square&labelColor=1e293b"/>
+<img src="https://img.shields.io/badge/pipeline__tag-software--engineering-1e293b?style=flat-square&labelColor=6366f1"/>
+<img src="https://img.shields.io/badge/library-react%20%7C%20nextjs%20%7C%20flutter%20%7C%20node-1e293b?style=flat-square&labelColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/region-pakistan-1e293b?style=flat-square&labelColor=ec4899"/>
+<img src="https://img.shields.io/badge/status-open%20to%20work-1e293b?style=flat-square&labelColor=22c55e"/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Zaibten&label=Profile%20Views&color=8b5cf6&style=flat-square"/>
 
@@ -22,13 +22,16 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## 📋 Model Description
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=MODEL%20DESCRIPTION&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=400&color=64748B&center=true&vCenter=true&width=700&height=30&lines=%3E+Generating+description..." alt="loading"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1400&color=64748B&center=true&vCenter=true&width=500&height=25&lines=%3E+whoami" alt="prompt"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=200&color=8B5CF6&center=true&vCenter=true&width=750&height=25&lines=Full-stack%2Bapplied-AI+engineer%2C+shipping+production+software+end-to-end." alt="response"/>
 </div>
+
+<br/>
 
 **MUZAMIL-DEV** is a general-purpose full-stack + applied-AI system, independently developed and continuously fine-tuned through production work. Optimized for shipping complete software products — mobile, web, backend, and the AI layer underneath — with minimal added infrastructure. Based in **Pakistan**, tuned for **global-market delivery**.
 
@@ -50,9 +53,9 @@ class Muzamil:
         return "Minimize new infrastructure. Maximize shipped, working software."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## 🧬 Inference Architecture
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=INFERENCE%20ARCHITECTURE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 AI isn't a bolt-on feature in this system — it's a layer inside the pipeline. Current build: an LLM-powered onboarding agent and a vector-search-backed AI tools directory.
 
@@ -75,9 +78,9 @@ flowchart LR
     style F fill:#6366f1,stroke:#4facfe,color:#fff
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## 📚 Training Data — Stack Exposure
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=STACK%20EXPOSURE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -102,13 +105,9 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## 🎛️ Capabilities
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=400&color=64748B&center=true&vCenter=true&width=700&height=30&lines=%3E+Evaluating+capability+matrix..." alt="loading"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=CAPABILITIES&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 | Domain | Technologies |
 |---|---|
@@ -118,9 +117,9 @@ flowchart LR
 | **Applied AI** | Anthropic API, Pinecone (vector search), Algolia (search relevance), Supabase |
 | **Deployment** | Vercel |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## 🔬 Currently Fine-Tuning On
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=CURRENTLY%20FINE-TUNING%20ON&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <table>
 <tr><th align="left" width="24%">Checkpoint</th><th align="left">Details</th></tr>
@@ -147,9 +146,9 @@ flowchart LR
 
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## 🗃️ Additional Checkpoints
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=ADDITIONAL%20CHECKPOINTS&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <details>
 <summary><strong>FaceTrace</strong> — forensic AI sketch generation (Flutter)</summary><br/>
@@ -169,9 +168,9 @@ Compared 15 classification algorithms on a large synthetic dataset, using a char
 Helmet detection (computer vision safety system), customer review NLP scraper, car auction price prediction, cross-platform carpooling app, and a hospital management system — spanning Django, .NET, and React Native.
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## 🧭 Operating Principles
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=OPERATING%20PRINCIPLES&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 | Principle | In Practice |
 |---|---|
@@ -180,17 +179,17 @@ Helmet detection (computer vision safety system), customer review NLP scraper, c
 | 🧩 **Full ownership** | Comfortable across mobile, web, backend, and the AI layer on the same project |
 | 🌍 **Global-market focus** | Products built to scale past a single region from day one |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## ⚠️ Limitations & Considerations
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=LIMITATIONS%20%26%20CONSIDERATIONS&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 - Optimized for lean teams and fast iteration — not tuned for slow, heavily bureaucratic environments
 - Prioritizes shipping a working version over exhaustive upfront documentation
 - Best paired with a clear business objective; less effective on completely unscoped, open-ended briefs
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
-## 🕓 Version History
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=VERSION%20HISTORY&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 | Version | Milestone |
 |---|---|
@@ -198,13 +197,13 @@ Helmet detection (computer vision safety system), customer review NLP scraper, c
 | `v2` | Expanded into deep learning, computer vision, and NLP experimentation |
 | `v3` *(current)* | Integrating LLM agents, vector search, and applied AI directly into production products |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:8b5cf6,100:ec4899&height=3&width=100%"/>
+<br/>
 
 <div align="center">
 
-## 📡 Request Access
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=REQUEST%20ACCESS&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&height=40&lines=%3E+Open+to+new+projects+and+collaborations" alt="contact line"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&height=40&lines=%3E+open+to+new+projects+and+collaborations" alt="contact line"/>
 
 <a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -212,6 +211,6 @@ Helmet detection (computer vision safety system), customer review NLP scraper, c
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:4facfe&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:4facfe&height=160&section=footer" width="100%"/>
 
 </div>

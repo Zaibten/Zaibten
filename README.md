@@ -1,55 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0f172a,100:1e1b4b&height=260&section=header&text=MUZAMIL.AI&fontSize=64&fontColor=22D3EE&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%2B%20Applied-AI%20Engineer&descAlignY=60&descSize=18&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4285F4,35:AA00FF,70:FF3D8A,100:FF6D00&height=250&section=header&text=Muzamil%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=✨%20Full-Stack%20Engineer%20%C2%B7%20Applied%20AI%20Builder&descAlignY=60&descSize=18" width="100%"/>
 
-<sub>● ● ●&nbsp;&nbsp;<code>muzamil@ai-core:~$</code></sub>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=400&color=00FF9D&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%3E+establishing+neural+link...;%3E+loading+model%3A+MUZAMIL-DEV;%3E+parameters%3A+full-stack+%2B+applied-AI;%3E+status%3A+ONLINE" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2400&pause=800&color=8B5CF6&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Hi%2C+I'm+Muzamil+%F0%9F%91%8B;I+build+software+with+an+AI+layer+built+in;Let's+create+something+intelligent+together" alt="greeting animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PIPELINE-SOFTWARE__ENGINEERING-000000?style=flat-square&labelColor=000000&color=22D3EE"/>
-<img src="https://img.shields.io/badge/STACK-REACT_%7C_NEXTJS_%7C_FLUTTER_%7C_NODE-000000?style=flat-square&labelColor=000000&color=A78BFA"/>
-<img src="https://img.shields.io/badge/REGION-PAKISTAN-000000?style=flat-square&labelColor=000000&color=F472B6"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=flat-square&labelColor=000000&color=00FF9D"/>
+<img src="https://img.shields.io/badge/✨_Focus-AI--Native_Products-f1f5f9?style=flat-square&labelColor=f1f5f9&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/📍_Based_in-Pakistan-f1f5f9?style=flat-square&labelColor=f1f5f9&color=FF3D8A"/>
+<img src="https://img.shields.io/badge/💼_Status-Open_to_Projects-f1f5f9?style=flat-square&labelColor=f1f5f9&color=34A853"/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Zaibten&label=SCANS&color=22D3EE&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Zaibten&label=Visitors&color=4285F4&style=flat-square"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
-<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
-<a href="https://github.com/Zaibten"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F472B6"/></a>
-<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF9D"/></a>
+<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-FF3D8A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Zaibten"><img src="https://img.shields.io/badge/GitHub-AA00FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=CORE%20PROFILE&fontSize=28&fontColor=22D3EE&animation=fadeIn" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1400&color=00FF9D&background=000000&center=true&vCenter=true&width=550&height=35&lines=%3E+query%3A+whoami" alt="prompt"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=200&color=A78BFA&background=000000&center=true&vCenter=true&width=800&height=35&lines=response%3A+full-stack+%2B+applied-AI+engineer%2C+shipping+production+software+end-to-end" alt="response"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4285F4,50:AA00FF,100:FF3D8A&height=80&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-**MUZAMIL** is an independent, entrepreneurially-minded developer based in **Pakistan**, building software with **global market reach**. Operating as a solo builder — not within a traditional employment structure — scoping, shipping, and iterating across mobile, web, backend, and the AI layer underneath.
+> 🧑 **You:** What do you actually build?
+>
+> ✨ **Muzamil:** Software with an AI layer built in, not bolted on — full-stack products across mobile, web, and backend, shipped end-to-end.
 
-```yaml
-frontend:    [ONLINE]   Flutter · React Native · React · Next.js
-backend:     [ONLINE]   Node.js · Express · MongoDB
-applied_ai:  [ONLINE]   Anthropic API · Pinecone · Algolia · Supabase
-deployment:  [ONLINE]   Vercel
-mode:        LEAN — minimal new infrastructure, maximum shipped software
+I'm an independent, entrepreneurially-minded developer based in **Pakistan**, building software with **global market reach**. I work as a solo builder — not within a traditional employment structure — scoping, designing, and shipping products myself, from UI to backend to the AI underneath it.
+
+```python
+class Muzamil:
+    def __init__(self):
+        self.location = "Pakistan"
+        self.frontend = ["Flutter", "React Native", "React", "Next.js"]
+        self.backend = ["Node.js", "Express", "MongoDB"]
+        self.ai_layer = ["Anthropic API", "Pinecone", "Algolia", "Supabase"]
+        self.deploy = "Vercel"
+
+    def philosophy(self):
+        return "Ship inside existing infrastructure — minimal new surface area, maximum leverage."
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=NEURAL%20PIPELINE&fontSize=26&fontColor=A78BFA&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:AA00FF,50:FF3D8A,100:FF6D00&height=80&section=header&text=How%20AI%20Powers%20My%20Work&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-AI isn't a bolt-on feature here — it's a layer inside the pipeline. Current build: an LLM-powered onboarding agent and a vector-search-backed AI tools directory.
+<br/>
+
+AI isn't a separate track — it's a layer inside the products I build. Two current examples: an LLM-powered onboarding agent, and an AI tools directory with semantic search baked in.
 
 ```mermaid
 flowchart LR
@@ -64,76 +67,98 @@ flowchart LR
     F --> B
     B --> H[Deployed on Vercel]
 
-    style A fill:#0f172a,stroke:#22d3ee,color:#22d3ee
-    style B fill:#0f172a,stroke:#a78bfa,color:#a78bfa
-    style C fill:#1e1b4b,stroke:#f472b6,color:#f472b6
-    style D fill:#0f172a,stroke:#00ff9d,color:#00ff9d
-    style E fill:#0f172a,stroke:#00ff9d,color:#00ff9d
-    style F fill:#0f172a,stroke:#00ff9d,color:#00ff9d
-    style G fill:#0f172a,stroke:#22d3ee,color:#22d3ee
-    style H fill:#0f172a,stroke:#a78bfa,color:#a78bfa
-    linkStyle default stroke:#8b5cf6,stroke-width:2px
+    style A fill:#ffffff,stroke:#4285F4,color:#1e293b
+    style B fill:#ffffff,stroke:#8B5CF6,color:#1e293b
+    style C fill:#f5f3ff,stroke:#AA00FF,color:#6b21a8
+    style D fill:#ffffff,stroke:#FF3D8A,color:#1e293b
+    style E fill:#ffffff,stroke:#FF3D8A,color:#1e293b
+    style F fill:#ffffff,stroke:#FF3D8A,color:#1e293b
+    style G fill:#ffffff,stroke:#4285F4,color:#1e293b
+    style H fill:#ffffff,stroke:#34A853,color:#1e293b
+    linkStyle default stroke:#AA00FF,stroke-width:2px
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=SYSTEM%20MODULES&fontSize=26&fontColor=F472B6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF3D8A,50:FF6D00,100:FFC107&height=80&section=header&text=Toolkit&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<div align="center">
-
-**Frontend & Mobile**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,js,ts,html,css,tailwind,bootstrap" />
 
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase,django,dotnet,cs" />
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-**AI / ML**
-<br/>
+**📱 Frontend & Mobile**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,js,ts" />
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Backend & Data**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" />
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI / ML**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-<img src="https://img.shields.io/badge/Anthropic_API-000000?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&color=00FF9D"/>
-<img src="https://img.shields.io/badge/Algolia-000000?style=for-the-badge&logo=algolia&logoColor=5468FF"/>
-
-**DevOps, Tools & Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,blender,vscode,postman" />
+<sub>+ Anthropic API · Pinecone · Algolia</sub>
 
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=ACTIVE%20PROCESSES&fontSize=26&fontColor=22D3EE&animation=fadeIn" width="100%"/>
-
-<table>
-<tr><th align="left" width="24%">Process</th><th align="left">Details</th></tr>
-
-<tr>
-<td>🔍 <strong>Select AI Tools</strong><br/><sub>selectaitool.com</sub></td>
-<td>AI tools directory platform (React/Vite · Node.js/Express · MongoDB). Recent work: improved Algolia fuzzy/prefix search relevance, fixed rating-display race conditions, resolved a multi-profession data pipeline issue via Excel upload, added admin bulk-delete and featured-toggle controls.</td>
+</td>
 </tr>
-
-<tr>
-<td>🤖 <strong>Zaibten Hire</strong></td>
-<td>AI employee-onboarding agent, being scaffolded on Next.js, Supabase, Pinecone, and the Anthropic API — grew out of researching high-revenue AI agent concepts for an AI SaaS strategy.</td>
-</tr>
-
-<tr>
-<td>🛠️ <strong>Labour Hub</strong></td>
-<td>Platform connecting labourers and contractors in Pakistan. Built several Node.js/Express admin panel iterations — JWT authentication, bilingual (Urdu/English) UI, real-time Chart.js dashboards with polling, and searchable paginated tables. An earlier React Native client resolved chatbot modal scroll conflicts, double-submission bugs, and Vercel deployment/CORS issues.</td>
-</tr>
-
-<tr>
-<td>🐞 <strong>Code Sync</strong></td>
-<td>Flutter app for AI-powered code error detection. Completed a full frontend redesign — animated screens, a custom bottom navigation bar, and a consistent dark navy/gradient design system — without touching backend logic.</td>
-</tr>
-
 </table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=ARCHIVED%20PROCESSES&fontSize=26&fontColor=A78BFA&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4285F4,50:8B5CF6,100:AA00FF&height=80&section=header&text=What%20I'm%20Building%20Now&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Select AI Tools**
+<br/><sub>selectaitool.com</sub>
+
+AI tools directory (React/Vite · Node.js/Express · MongoDB). Improved Algolia fuzzy/prefix search, fixed rating-display race conditions, resolved a multi-profession data pipeline issue via Excel upload, added admin bulk-delete and featured-toggle controls.
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Zaibten Hire**
+
+AI employee-onboarding agent, being scaffolded on Next.js, Supabase, Pinecone, and the Anthropic API — grew out of researching high-revenue AI agent concepts for an AI SaaS strategy.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛠️ Labour Hub**
+
+Platform connecting labourers and contractors in Pakistan. Node.js/Express admin panels with JWT auth, bilingual (Urdu/English) UI, and real-time Chart.js dashboards. Earlier React Native client fixed chatbot scroll conflicts and Vercel/CORS deployment issues.
+
+</td>
+<td width="50%" valign="top">
+
+**🐞 Code Sync**
+
+Flutter app for AI-powered code error detection. Completed a full frontend redesign — animated screens, custom bottom nav, dark navy/gradient design system — without touching backend logic.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8B5CF6,50:AA00FF,100:FF3D8A&height=80&section=header&text=Past%20Work&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <details>
 <summary><strong>FaceTrace</strong> — forensic AI sketch generation (Flutter)</summary><br/>
@@ -155,47 +180,34 @@ Helmet detection (computer vision safety system), customer review NLP scraper, c
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=CORE%20DIRECTIVES&fontSize=26&fontColor=F472B6&animation=fadeIn" width="100%"/>
-
-| Directive | In Practice |
-|---|---|
-| 🎯 **Outcome-first** | Every build is scoped to the business problem, not the tech stack |
-| ⚡ **Lean by default** | Minimal new infrastructure — extend what already exists |
-| 🧩 **Full ownership** | Comfortable across mobile, web, backend, and the AI layer on the same project |
-| 🌍 **Global-market focus** | Products built to scale past a single region from day one |
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6D00,50:FF3D8A,100:AA00FF&height=80&section=header&text=Principles&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=KNOWN%20CONSTRAINTS&fontSize=22&fontColor=22D3EE&animation=fadeIn" width="100%"/>
-
-- Optimized for lean teams and fast iteration — not tuned for slow, heavily bureaucratic environments
-- Prioritizes shipping a working version over exhaustive upfront documentation
-- Best paired with a clear business objective; less effective on completely unscoped, open-ended briefs
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=BUILD%20LOG&fontSize=28&fontColor=A78BFA&animation=fadeIn" width="100%"/>
-
-| Version | Milestone |
-|---|---|
-| `v1` | Foundations across full-stack web and mobile development |
-| `v2` | Expanded into deep learning, computer vision, and NLP experimentation |
-| `v3` *(current)* | Integrating LLM agents, vector search, and applied AI directly into production products |
+<table align="center">
+<tr><td align="center" width="25%">🎯<br/><strong>Outcome-first</strong><br/><sub>Scoped to the business problem, not the tech</sub></td>
+<td align="center" width="25%">⚡<br/><strong>Lean by default</strong><br/><sub>Extend what exists, add little new</sub></td>
+<td align="center" width="25%">🧩<br/><strong>Full ownership</strong><br/><sub>Mobile, web, backend, AI — one builder</sub></td>
+<td align="center" width="25%">🌍<br/><strong>Global focus</strong><br/><sub>Built to scale past one region</sub></td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=ESTABLISH%20CONNECTION&fontSize=26&fontColor=F472B6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:AA00FF,50:FF3D8A,100:FF6D00&height=80&section=header&text=Let's%20Talk&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&color=00FF9D&background=000000&center=true&vCenter=true&width=750&height=40&lines=%3E+channel+open+%E2%80%94+available+for+new+projects" alt="contact line"/>
+<br/>
 
-<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
-<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF9D"/></a>
-<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2400&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&height=40&lines=Open+to+new+projects+and+collaborations+✨" alt="contact line"/>
+
+<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-FF3D8A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0f172a,100:000000&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6D00,35:FF3D8A,70:AA00FF,100:4285F4&height=150&section=footer" width="100%"/>
 
 </div>

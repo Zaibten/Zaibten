@@ -1,213 +1,248 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4285F4,35:AA00FF,70:FF3D8A,100:FF6D00&height=250&section=header&text=Muzamil%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=✨%20Full-Stack%20Engineer%20%C2%B7%20Applied%20AI%20Builder&descAlignY=60&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2400&pause=800&color=8B5CF6&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Hi%2C+I'm+Muzamil+%F0%9F%91%8B;I+build+software+with+an+AI+layer+built+in;Let's+create+something+intelligent+together" alt="greeting animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+INITIALIZING+MUZAMIL.AI...;%3E+SYSTEM+ONLINE;%3E+AI+AGENT+READY+FOR+DEPLOYMENT" alt="boot sequence" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/✨_Focus-AI--Native_Products-f1f5f9?style=flat-square&labelColor=f1f5f9&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/📍_Based_in-Pakistan-f1f5f9?style=flat-square&labelColor=f1f5f9&color=FF3D8A"/>
-<img src="https://img.shields.io/badge/💼_Status-Open_to_Projects-f1f5f9?style=flat-square&labelColor=f1f5f9&color=34A853"/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Zaibten&label=Visitors&color=4285F4&style=flat-square"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-FF3D8A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Zaibten"><img src="https://img.shields.io/badge/GitHub-AA00FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MUZAMIL.AI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Autonomous%20Full-Stack%20%2B%20AI%20Agent&descAlignY=58&descAlign=50" />
 
 </div>
 
-<br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4285F4,50:AA00FF,100:FF3D8A&height=80&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+![Status](https://img.shields.io/badge/AGENT_STATUS-ONLINE-00ff9d?style=for-the-badge&logo=statuspage&logoColor=white)
+![Mode](https://img.shields.io/badge/MODE-AUTONOMOUS-ff00c8?style=for-the-badge&logo=robotframework&logoColor=white)
+![Uptime](https://img.shields.io/badge/UPTIME-24%2F7-00c8ff?style=for-the-badge&logo=cachet&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Zaibten&style=for-the-badge&color=blueviolet&label=SCANS+RECEIVED)
 
-<br/>
+</div>
 
-> 🧑 **You:** What do you actually build?
->
-> ✨ **Muzamil:** Software with an AI layer built in, not bolted on — full-stack products across mobile, web, and backend, shipped end-to-end.
+---
 
-I'm an independent, entrepreneurially-minded developer based in **Pakistan**, building software with **global market reach**. I work as a solo builder — not within a traditional employment structure — scoping, designing, and shipping products myself, from UI to backend to the AI underneath it.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=I+am+not+just+a+developer+%E2%80%94+I+am+an+AI-driven+build+system.;Trained+on%3A+Full-Stack+Engineering+%2B+Machine+Learning+%2B+Automation.;Deploying+intelligent+solutions+since+day+one." />
+</div>
 
-```python
-class Muzamil:
-    def __init__(self):
-        self.location = "Pakistan"
-        self.frontend = ["Flutter", "React Native", "React", "Next.js"]
-        self.backend = ["Node.js", "Express", "MongoDB"]
-        self.ai_layer = ["Anthropic API", "Pinecone", "Algolia", "Supabase"]
-        self.deploy = "Vercel"
+---
 
-    def philosophy(self):
-        return "Ship inside existing infrastructure — minimal new surface area, maximum leverage."
+## 🧠 AGENT PROFILE
+
+```yaml
+agent:
+  callsign:      "Muzamil (Zaibten)"
+  designation:   "Tech Explorer // AI Systems Architect"
+  core_directive: "Convert complex problems into deployed, scalable software."
+  status:        ACTIVE
+  learning_mode: CONTINUOUS
+  contact:
+    email:    muzamilkhanofficials@gmail.com
+    phone:    +92-336-3506933
+    github:   github.com/Zaibten
 ```
 
-<br/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=%3E+Compiling+creativity...+done;%3E+Loading+innovation+modules...+done;%3E+Establishing+connection+with+the+future...+done" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:AA00FF,50:FF3D8A,100:FF6D00&height=80&section=header&text=How%20AI%20Powers%20My%20Work&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+---
 
-<br/>
+## ⚙️ CORE SYSTEMS // TECH STACK
 
-AI isn't a separate track — it's a layer inside the products I build. Two current examples: an LLM-powered onboarding agent, and an AI tools directory with semantic search baked in.
+<div align="center" style="background-color:#0d1117; padding:14px; border-radius:16px;">
 
-```mermaid
-flowchart LR
-    A[Client App<br/>Flutter · React · Next.js] --> B[API Layer<br/>Node.js + Express]
-    B --> C{AI Layer}
-    C -->|LLM reasoning & agents| D[Anthropic API]
-    C -->|Vector / semantic search| E[Pinecone]
-    C -->|Search relevance| F[Algolia]
-    B --> G[(MongoDB / Supabase)]
-    D --> B
-    E --> B
-    F --> B
-    B --> H[Deployed on Vercel]
+<img src="https://skillicons.dev/icons?i=cpp,csharp,python,dotnet,bootstrap,js,ts,react,nodejs,express,django,mongodb,mysql,firebase,wordpress,tensorflow,pytorch,androidstudio,flutter,figma,blender,docker,azure,git,github,vscode&perline=13" alt="tech stack" />
 
-    style A fill:#ffffff,stroke:#4285F4,color:#1e293b
-    style B fill:#ffffff,stroke:#8B5CF6,color:#1e293b
-    style C fill:#f5f3ff,stroke:#AA00FF,color:#6b21a8
-    style D fill:#ffffff,stroke:#FF3D8A,color:#1e293b
-    style E fill:#ffffff,stroke:#FF3D8A,color:#1e293b
-    style F fill:#ffffff,stroke:#FF3D8A,color:#1e293b
-    style G fill:#ffffff,stroke:#4285F4,color:#1e293b
-    style H fill:#ffffff,stroke:#34A853,color:#1e293b
-    linkStyle default stroke:#AA00FF,stroke-width:2px
-```
+</div>
 
-<br/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Neural+pathways%3A+Frontend+%E2%86%92+Backend+%E2%86%92+AI+%E2%86%92+Deployment" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF3D8A,50:FF6D00,100:FFC107&height=80&section=header&text=Toolkit&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+### 🔩 Subsystem Breakdown
 
-<br/>
+| Module | Capabilities |
+|---|---|
+| 🌐 **Web Cortex** | React, Node.js, Express, .NET MVC, Django, REST & GraphQL APIs |
+| 🤖 **Neural Engine** | TensorFlow, PyTorch, Keras, Scikit-learn, NLP, OpenAI API |
+| 📱 **Mobile Uplink** | Flutter, React Native, Firebase, Expo |
+| 🗄️ **Memory Banks** | MongoDB, MySQL, SQL Server, Firebase, SQLite |
+| 📊 **Analytics Array** | Pandas, NumPy, Power BI, Tableau, Statistical Forecasting |
+| 🎨 **Render Core** | Figma, Adobe XD, Blender 3D, UI/UX Prototyping |
+| 📈 **Growth Protocol** | SEO/SEM, Marketing Automation, Chatbots, Shopify Integrations |
+
+---
+
+## 🛰️ DEPLOYED MISSIONS // PROJECT LOG
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=700&color=FFD60A&center=true&vCenter=true&width=700&lines=Fetching+mission+archive...;Access+granted." />
+</div>
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-**📱 Frontend & Mobile**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,js,ts" />
-
-</td>
-<td align="center" width="33%">
-
-**⚙️ Backend & Data**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" />
+**🩻 Anatomy Server**
+`Node.js · Express · MongoDB`
+Real-time medical data backend for anatomy visualization systems.
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-**🤖 AI / ML**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-<br/>
-<sub>+ Anthropic API · Pinecone · Algolia</sub>
+**🛒 ERP/CRM Commerce Engine**
+`.NET MVC`
+Full eCommerce platform fused with ERP + CRM operations.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🪖 Helmet Detection AI**
+`Deep Learning · Computer Vision`
+Real-time safety-compliance detection via neural vision models.
+
+</td>
+<td width="50%">
+
+**🏪 Supermart Management System**
+`C# WinForms`
+Desktop-native retail operations & inventory control suite.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🚗 Car-Pooling Network**
+`Flutter · React`
+Cross-platform ride-sharing intelligence for urban mobility.
+
+</td>
+<td width="50%">
+
+**🧬 3D Anatomy Mobile App**
+`React Native · Node.js`
+Immersive 3D anatomical exploration in your pocket.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📦 AI Inventory Forecaster**
+`Django · Python · ML`
+Predictive stock intelligence to eliminate overstock/shortages.
+
+</td>
+<td width="50%">
+
+**🔍 Review Intelligence Scraper**
+`NLP · Machine Learning`
+Aggregates & analyzes eCommerce reviews for actionable insight.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🖼️ PictureAI**
+`Flutter · Node.js · OpenAI`
+On-demand AI image generation, mobile-native.
+
+</td>
+<td width="50%">
+
+**🕵️ Criminal Pattern Predictor**
+`Django · Python`
+Historical-data-driven crime trend prediction system.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🚘 Carit Auction Engine**
+`Price Prediction · Verification`
+Real-time car auction valuation & verification pipeline.
+
+</td>
+<td width="50%">
+
+**🏥 Hospital Management System**
+`Full-Stack · Secure Architecture`
+End-to-end hospital resource & patient data management.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=12%2B+missions+deployed+successfully.;Standing+by+for+next+directive..." />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4285F4,50:8B5CF6,100:AA00FF&height=80&section=header&text=What%20I'm%20Building%20Now&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+---
 
-<br/>
+## 📡 LIVE TELEMETRY
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Zaibten&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=ff00c8&text_color=ffffff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaibten&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=ff00c8&currStreakLabel=00F7FF" height="165"/>
+</div>
 
-**🔍 Select AI Tools**
-<br/><sub>selectaitool.com</sub>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaibten&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" />
+</div>
 
-AI tools directory (React/Vite · Node.js/Express · MongoDB). Improved Algolia fuzzy/prefix search, fixed rating-display race conditions, resolved a multi-profession data pipeline issue via Excel upload, added admin bulk-delete and featured-toggle controls.
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaibten&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=ff00c8&point=ffffff" width="90%"/>
+</div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-**🤖 Zaibten Hire**
+## 🎯 MISSION DIRECTIVE
 
-AI employee-onboarding agent, being scaffolded on Next.js, Supabase, Pinecone, and the Anthropic API — grew out of researching high-revenue AI agent concepts for an AI SaaS strategy.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+Objective%3A+Turn+ambiguous+ideas+into+production-grade+systems.;%3E+Method%3A+Full-stack+%2B+AI-assisted+engineering.;%3E+Guarantee%3A+Scalable%2C+intelligent%2C+future-proof+delivery." />
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-**🛠️ Labour Hub**
-
-Platform connecting labourers and contractors in Pakistan. Node.js/Express admin panels with JWT auth, bilingual (Urdu/English) UI, and real-time Chart.js dashboards. Earlier React Native client fixed chatbot scroll conflicts and Vercel/CORS deployment issues.
-
-</td>
-<td width="50%" valign="top">
-
-**🐞 Code Sync**
-
-Flutter app for AI-powered code error detection. Completed a full frontend redesign — animated screens, custom bottom nav, dark navy/gradient design system — without touching backend logic.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8B5CF6,50:AA00FF,100:FF3D8A&height=80&section=header&text=Past%20Work&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<details>
-<summary><strong>FaceTrace</strong> — forensic AI sketch generation (Flutter)</summary><br/>
-
-On-device ML pipeline scaffolding built around an existing API integration, plus a full academic project report with programmatically generated UML and DFD diagrams.
-</details>
-
-<details>
-<summary><strong>Trilingual ML chatbot</strong> (Jupyter Notebook)</summary><br/>
-
-Compared 15 classification algorithms on a large synthetic dataset, using a character n-gram TF-IDF approach to handle mixed English, Roman Urdu, and Urdu-script input.
-</details>
-
-<details>
-<summary><strong>Earlier public repositories</strong></summary><br/>
-
-Helmet detection (computer vision safety system), customer review NLP scraper, car auction price prediction, cross-platform carpooling app, and a hospital management system — spanning Django, .NET, and React Native.
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6D00,50:FF3D8A,100:AA00FF&height=80&section=header&text=Principles&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<table align="center">
-<tr><td align="center" width="25%">🎯<br/><strong>Outcome-first</strong><br/><sub>Scoped to the business problem, not the tech</sub></td>
-<td align="center" width="25%">⚡<br/><strong>Lean by default</strong><br/><sub>Extend what exists, add little new</sub></td>
-<td align="center" width="25%">🧩<br/><strong>Full ownership</strong><br/><sub>Mobile, web, backend, AI — one builder</sub></td>
-<td align="center" width="25%">🌍<br/><strong>Global focus</strong><br/><sub>Built to scale past one region</sub></td>
-</tr>
-</table>
-
-<br/>
+## 📶 ESTABLISH UPLINK
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:AA00FF,50:FF3D8A,100:FF6D00&height=80&section=header&text=Let's%20Talk&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<a href="mailto:muzamilkhanofficials@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL_LINK-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/923363506933" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN_NODE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Zaibten" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB_CORE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/muzamilkhan_508/" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM_FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100008930431433" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK_LINK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2400&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&height=40&lines=Open+to+new+projects+and+collaborations+✨" alt="contact line"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Awaiting+incoming+transmission...;Ready+to+deploy+on+your+signal." />
+</div>
 
-<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-FF3D8A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+---
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6D00,35:FF3D8A,70:AA00FF,100:4285F4&height=150&section=footer" width="100%"/>
+<div align="center">
+
+*"I am the code between your idea and its execution."* — **Muzamil.AI**
 
 </div>

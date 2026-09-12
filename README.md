@@ -1,220 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=280&section=header&text=MUZAMIL%20KHAN&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Independent%20Builder&descAlignY=56&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e2e8f0,100:cbd5e1&height=4&width=100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=Designing+AI-native+products+from+idea+to+production;Full-Stack+%2B+Mobile+%2B+Machine+Learning+%E2%80%94+one+builder;Based+in+Pakistan+%7C+Building+for+global+markets" alt="Typing SVG" />
+<h1>Muzamil Khan</h1>
+<p><strong>Full-Stack Engineer · AI Systems Builder · Independent Software Developer</strong></p>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=475569&center=true&vCenter=true&width=650&height=40&lines=Building+full-stack+products+with+an+AI+layer+built+in;Flutter+%C2%B7+React%2FNext.js+%C2%B7+Node.js+%C2%B7+MongoDB;Independent+builder+based+in+Pakistan%2C+shipping+globally" alt="role typing animation"/>
 
-<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Zaibten"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.instagram.com/muzamilkhan_508/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<br/><br/>
 
-<br/>
+<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Zaibten"><img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-334155?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=Zaibten&label=Profile%20Views&color=00c6ff&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Available%20for%20Projects-2ecc71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Based%20in-Pakistan-e74c3c?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e2e8f0,100:cbd5e1&height=4&width=100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+## Overview
 
-## 🧠 About Me
-
-I'm **Muzamil** — an independent, entrepreneurially-minded developer building software products with **global market potential**. I operate as a builder, not an employee: I scope, design, ship, and iterate on products end-to-end — mobile, web, backend, and the AI layer that increasingly sits underneath all of it.
+I'm an independent, entrepreneurially-minded developer based in **Pakistan**, building software products aimed at global markets. I work as a solo builder rather than within a traditional employment structure — scoping, designing, and shipping products end-to-end across mobile, web, backend, and applied AI.
 
 ```python
 class Muzamil:
     def __init__(self):
         self.location = "Pakistan"
-        self.role = "Independent Builder · Full-Stack & AI Engineer"
-        self.works_as = "Solo founder / small-team builder — not traditional employment"
-        self.focus = [
-            "AI-powered products",
-            "SaaS platforms",
-            "Mobile-first apps",
-            "Workflow automation",
-        ]
-        self.stack = {
-            "frontend": ["Flutter", "React Native", "React", "Next.js"],
-            "backend": ["Node.js", "Express", "MongoDB"],
-            "deploy": "Vercel",
-        }
+        self.role = "Independent Developer — Full-Stack & Applied AI"
+        self.frontend = ["Flutter", "React Native", "React", "Next.js"]
+        self.backend = ["Node.js", "Express", "MongoDB"]
+        self.deploy = "Vercel"
 
-    def philosophy(self):
-        return "Ship inside existing infrastructure. Minimal moving parts, maximum leverage."
-
-    def current_mission(self):
-        return "Building AI-native software that competes globally, from a lean base."
+    def approach(self):
+        return "Ship inside existing infrastructure — minimal new surface area, maximum leverage."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+<br/>
 
-## 🤖 How AI Fits Into My Work
+## Where AI Fits In
 
-I don't just use AI as a buzzword — it's a working layer in the products I build. Typical shape of an AI-integrated product I ship:
+AI isn't a separate track from my product work — it's a layer inside the systems I build. Current examples: a Next.js/Supabase/Pinecone employee-onboarding agent using the Anthropic API, and an AI tools discovery platform with Algolia-backed fuzzy search.
 
 ```mermaid
 flowchart LR
-    A[User Input] --> B[App Layer<br/>Flutter / React / Next.js]
-    B --> C[API Layer<br/>Node.js + Express]
-    C --> D{AI Layer}
-    D -->|LLM reasoning| E[OpenAI / Hugging Face APIs]
-    D -->|Custom models| F[TensorFlow / PyTorch]
-    C --> G[(MongoDB)]
-    E --> C
-    F --> C
-    C --> B
+    A[Client App<br/>Flutter / React / Next.js] --> B[API Layer<br/>Node.js + Express]
+    B --> C{AI Layer}
+    C -->|LLM agents| D[Anthropic API]
+    C -->|Vector search| E[Pinecone]
+    C -->|Search relevance| F[Algolia]
+    B --> G[(MongoDB / Supabase)]
+    D --> B
+    E --> B
+    F --> B
     B --> H[Deployed on Vercel]
 ```
 
-**Where I apply it in practice:**
+<br/>
 
-| Area | Applied Use |
+## Core Expertise
+
+| Domain | Technologies |
 |---|---|
-| 🧩 Product intelligence | LLM-powered features (generation, summarization, classification) via OpenAI / Hugging Face |
-| 👁️ Computer vision | Detection & classification models (e.g. real-time helmet detection) with TensorFlow/OpenCV |
-| 📈 Forecasting | Demand & inventory prediction models for operational tooling |
-| 🗣️ NLP | Review/sentiment analysis pipelines for customer-facing data |
-| ⚙️ Automation | AI-assisted onboarding, scraping, and internal tooling agents |
+| **Frontend (Mobile)** | Flutter, React Native |
+| **Frontend (Web)** | React, Next.js |
+| **Backend** | Node.js, Express, MongoDB |
+| **Applied AI** | Anthropic API, Pinecone (vector search), Algolia (search relevance), Supabase |
+| **Deployment** | Vercel |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
-
-## ⚙️ Tech Arsenal
-
-<div align="center">
-
-**Frontend & Mobile**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,js,ts,html,css,tailwind,bootstrap" />
 
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,django,dotnet,cs" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-**DevOps, Tools & Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,blender,vscode,postman" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
-
-## 🛠️ What I Build
+## Current Work
 
 <table>
+<tr><th align="left" width="26%">Project</th><th align="left">Details</th></tr>
+
 <tr>
-<td width="33%" valign="top">
-
-### 📱 Mobile & Cross-Platform
-End-to-end apps in Flutter and React Native — from UI to backend to store deployment.
-
-- AI-powered image generation apps
-- Ride-sharing / carpooling platforms
-- 3D/AR visualization apps
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Web Platforms & SaaS
-Full-stack products on React/Next.js + Node.js, built to scale beyond a single market.
-
-- AI tools directories & discovery platforms
-- Labour/contractor marketplace platforms
-- eCommerce + ERP/CRM systems
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI-Powered Systems
-Applied ML/AI features embedded directly into product workflows, not bolted on.
-
-- Employee onboarding AI agents
-- Review/sentiment analysis engines
-- Forecasting & detection models
-
-</td>
+<td><strong>Select AI Tools</strong><br/><sub>selectaitool.com</sub></td>
+<td>AI tools directory platform (React/Vite · Node.js/Express · MongoDB). Recent work: improved Algolia fuzzy/prefix search relevance, fixed rating-display race conditions, resolved a multi-profession data pipeline issue via Excel upload, and added admin bulk-delete and featured-toggle controls.</td>
 </tr>
+
+<tr>
+<td><strong>Zaibten Hire</strong></td>
+<td>AI employee-onboarding agent, being scaffolded on Next.js, Supabase, Pinecone, and the Anthropic API — grew out of researching high-revenue AI agent concepts for an AI SaaS strategy.</td>
+</tr>
+
+<tr>
+<td><strong>Labour Hub</strong></td>
+<td>Platform connecting labourers and contractors in Pakistan. Built several Node.js/Express admin panel iterations — JWT authentication, bilingual (Urdu/English) UI, real-time Chart.js dashboards with polling, and searchable paginated tables. An earlier React Native client resolved chatbot modal scroll conflicts, double-submission bugs, and Vercel deployment/CORS issues.</td>
+</tr>
+
+<tr>
+<td><strong>Code Sync</strong></td>
+<td>Flutter app for AI-powered code error detection. Completed a full frontend redesign — animated screens, a custom bottom navigation bar, and a consistent dark navy/gradient design system — without touching backend logic.</td>
+</tr>
+
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+<br/>
 
-## 🏆 Flagship Builds
+## Other Notable Work
 
-- **PictureAI** — AI image-generation mobile app (Flutter + Node.js + OpenAI)
-- **AI Inventory Management** — Django-based demand forecasting engine
-- **Helmet Detection** — Real-time deep-learning safety detection system
-- **Criminal Detection Web App** — Predictive analytics on historical crime data
-- **Zaibten Scrapper** — NLP-driven customer review intelligence tool
-- **Car Auction Platform** — Real-time price prediction + verification tooling
-- **Car-Pooling App** — Cross-platform ride-sharing (Flutter + React)
-- **Anatomy 3D Mobile App** — React Native + Node.js medical visualization
-- **eCommerce + ERP/CRM Suite** — .NET MVC business operations platform
-- **Hospital Management System** — Secure resource & patient data platform
+<details>
+<summary>FaceTrace — forensic AI sketch generation (Flutter)</summary><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+On-device ML pipeline scaffolding built around an existing API integration, plus a full academic project report with programmatically generated UML and DFD diagrams.
+</details>
 
-## 📊 GitHub Pulse
+<details>
+<summary>Trilingual ML chatbot (Jupyter Notebook)</summary><br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Zaibten&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Zaibten&theme=tokyonight&hide_border=true" width="49%"/>
+Compared 15 classification algorithms on a large synthetic dataset, using a character n-gram TF-IDF approach to handle mixed English, Roman Urdu, and Urdu-script input.
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaibten&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaibten&theme=tokyo-night&hide_border=true" width="49%"/>
+<details>
+<summary>Earlier public repositories</summary><br/>
 
-<br/><br/>
+Helmet detection (computer vision safety system), customer review NLP scraper, car auction price prediction, cross-platform carpooling app, and a hospital management system — spanning Django, .NET, and React Native.
+</details>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zaibten&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<br/>
 
-</div>
+## How I Work
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Zaibten/Zaibten/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-<!--END_SECTION:snake-->
-
-<sub>Animated automatically via GitHub Actions — see <code>snake.yml</code> below to enable it on your profile repo.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
-
-## 🌱 How I Work
-
-| Principle | What it means in practice |
+| Principle | In Practice |
 |---|---|
-| 🎯 **Outcome-first** | Every build is scoped around the business problem, not the tech |
-| ⚡ **Lean by default** | Minimal moving parts, maximum leverage — ship inside existing infra |
-| 🧩 **Full-stack ownership** | Comfortable across mobile, web, backend, and AI in the same project |
-| 🌍 **Global-market focus** | Products designed to scale beyond a single region from day one |
-| 🔁 **Iteration over perfection** | Ship a working version, then refine based on real usage |
+| Outcome-first | Every build is scoped to the business problem, not the tech stack |
+| Lean by default | Minimal new infrastructure — extend what already exists |
+| Full ownership | Comfortable across mobile, web, backend, and the AI layer on the same project |
+| Global-market focus | Products built to scale past a single region from day one |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+<br/>
+
+## GitHub Activity
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Zaibten&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaibten&layout=compact&theme=default&hide_border=true" width="35%"/>
+</div>
 
-### 🚀 Let's Build Something Intelligent Together
+<p align="center"><sub>These populate from a live GitHub Stats API using the username above. If they don't render, it usually means <code>Zaibten</code> is an organization rather than a personal account — swap in your personal GitHub username and they'll resolve immediately.</sub></p>
 
-<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-00C6FF?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
-<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<details>
+<summary><strong>Optional: animated contribution snake</strong></summary><br/>
 
-<br/><br/>
+A day-by-day animated snake through your contribution graph, generated by a scheduled GitHub Action rather than a static image — so it needs a one-time setup:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+1. Add the workflow file below to `.github/workflows/snake.yml` in your `<username>/<username>` profile repo
+2. Run it once from the Actions tab (or wait for the daily schedule)
+3. Add this to your README once it's live:
 
+```md
+![snake animation](https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg)
+```
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e2e8f0,100:cbd5e1&height=4&width=100%"/>
+
+<div align="center">
+<sub>Open to new projects — reach out via <a href="mailto:muzamilkhanofficials@gmail.com">email</a> or <a href="https://wa.me/923363506933">WhatsApp</a>.</sub>
 </div>

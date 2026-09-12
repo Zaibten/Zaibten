@@ -1,63 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:8b5cf6,100:ec4899&height=280&section=header&text=MUZAMIL-DEV%20%2F%2F%20v2026.1&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%2B%20Applied-AI%20Engineer&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0f172a,100:1e1b4b&height=260&section=header&text=MUZAMIL.AI&fontSize=64&fontColor=22D3EE&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%2B%20Applied-AI%20Engineer&descAlignY=60&descSize=18&descColor=A78BFA" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%3E+booting+profile...;%3E+loading+capabilities.json...;%3E+model+ready" alt="boot sequence"/>
+<sub>● ● ●&nbsp;&nbsp;<code>muzamil@ai-core:~$</code></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=400&color=00FF9D&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%3E+establishing+neural+link...;%3E+loading+model%3A+MUZAMIL-DEV;%3E+parameters%3A+full-stack+%2B+applied-AI;%3E+status%3A+ONLINE" alt="boot sequence"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/pipeline__tag-software--engineering-1e293b?style=flat-square&labelColor=6366f1"/>
-<img src="https://img.shields.io/badge/library-react%20%7C%20nextjs%20%7C%20flutter%20%7C%20node-1e293b?style=flat-square&labelColor=8b5cf6"/>
-<img src="https://img.shields.io/badge/region-pakistan-1e293b?style=flat-square&labelColor=ec4899"/>
-<img src="https://img.shields.io/badge/status-open%20to%20work-1e293b?style=flat-square&labelColor=22c55e"/>
+<img src="https://img.shields.io/badge/PIPELINE-SOFTWARE__ENGINEERING-000000?style=flat-square&labelColor=000000&color=22D3EE"/>
+<img src="https://img.shields.io/badge/STACK-REACT_%7C_NEXTJS_%7C_FLUTTER_%7C_NODE-000000?style=flat-square&labelColor=000000&color=A78BFA"/>
+<img src="https://img.shields.io/badge/REGION-PAKISTAN-000000?style=flat-square&labelColor=000000&color=F472B6"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=flat-square&labelColor=000000&color=00FF9D"/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Zaibten&label=Profile%20Views&color=8b5cf6&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Zaibten&label=SCANS&color=22D3EE&style=flat-square"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Zaibten"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
+<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
+<a href="https://github.com/Zaibten"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F472B6"/></a>
+<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF9D"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=MODEL%20DESCRIPTION&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=CORE%20PROFILE&fontSize=28&fontColor=22D3EE&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1400&color=64748B&center=true&vCenter=true&width=500&height=25&lines=%3E+whoami" alt="prompt"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=200&color=8B5CF6&center=true&vCenter=true&width=750&height=25&lines=Full-stack%2Bapplied-AI+engineer%2C+shipping+production+software+end-to-end." alt="response"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1400&color=00FF9D&background=000000&center=true&vCenter=true&width=550&height=35&lines=%3E+query%3A+whoami" alt="prompt"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=200&color=A78BFA&background=000000&center=true&vCenter=true&width=800&height=35&lines=response%3A+full-stack+%2B+applied-AI+engineer%2C+shipping+production+software+end-to-end" alt="response"/>
 </div>
 
 <br/>
 
-**MUZAMIL-DEV** is a general-purpose full-stack + applied-AI system, independently developed and continuously fine-tuned through production work. Optimized for shipping complete software products — mobile, web, backend, and the AI layer underneath — with minimal added infrastructure. Based in **Pakistan**, tuned for **global-market delivery**.
+**MUZAMIL** is an independent, entrepreneurially-minded developer based in **Pakistan**, building software with **global market reach**. Operating as a solo builder — not within a traditional employment structure — scoping, shipping, and iterating across mobile, web, backend, and the AI layer underneath.
 
-```python
-class Muzamil:
-    def __init__(self):
-        self.location = "Pakistan"
-        self.role = "Independent Developer — Full-Stack & Applied AI"
-        self.deployment_context = "Solo builder / small-team — not traditional employment"
-        self.frontend = ["Flutter", "React Native", "React", "Next.js"]
-        self.backend = ["Node.js", "Express", "MongoDB"]
-        self.ai_layer = ["Anthropic API", "Pinecone", "Algolia", "Supabase"]
-        self.deploy_target = "Vercel"
-
-    def inference(self, problem: str) -> str:
-        return f"Scoped, shipped, and iterated solution for: {problem}"
-
-    def training_objective(self):
-        return "Minimize new infrastructure. Maximize shipped, working software."
+```yaml
+frontend:    [ONLINE]   Flutter · React Native · React · Next.js
+backend:     [ONLINE]   Node.js · Express · MongoDB
+applied_ai:  [ONLINE]   Anthropic API · Pinecone · Algolia · Supabase
+deployment:  [ONLINE]   Vercel
+mode:        LEAN — minimal new infrastructure, maximum shipped software
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=INFERENCE%20ARCHITECTURE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=NEURAL%20PIPELINE&fontSize=26&fontColor=A78BFA&animation=fadeIn" width="100%"/>
 
-AI isn't a bolt-on feature in this system — it's a layer inside the pipeline. Current build: an LLM-powered onboarding agent and a vector-search-backed AI tools directory.
+AI isn't a bolt-on feature here — it's a layer inside the pipeline. Current build: an LLM-powered onboarding agent and a vector-search-backed AI tools directory.
 
 ```mermaid
 flowchart LR
@@ -72,15 +64,20 @@ flowchart LR
     F --> B
     B --> H[Deployed on Vercel]
 
-    style C fill:#8b5cf6,stroke:#4facfe,color:#fff
-    style D fill:#6366f1,stroke:#4facfe,color:#fff
-    style E fill:#6366f1,stroke:#4facfe,color:#fff
-    style F fill:#6366f1,stroke:#4facfe,color:#fff
+    style A fill:#0f172a,stroke:#22d3ee,color:#22d3ee
+    style B fill:#0f172a,stroke:#a78bfa,color:#a78bfa
+    style C fill:#1e1b4b,stroke:#f472b6,color:#f472b6
+    style D fill:#0f172a,stroke:#00ff9d,color:#00ff9d
+    style E fill:#0f172a,stroke:#00ff9d,color:#00ff9d
+    style F fill:#0f172a,stroke:#00ff9d,color:#00ff9d
+    style G fill:#0f172a,stroke:#22d3ee,color:#22d3ee
+    style H fill:#0f172a,stroke:#a78bfa,color:#a78bfa
+    linkStyle default stroke:#8b5cf6,stroke-width:2px
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=STACK%20EXPOSURE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=SYSTEM%20MODULES&fontSize=26&fontColor=F472B6&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -95,9 +92,9 @@ flowchart LR
 **AI / ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-<img src="https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_API-000000?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&color=00FF9D"/>
+<img src="https://img.shields.io/badge/Algolia-000000?style=for-the-badge&logo=algolia&logoColor=5468FF"/>
 
 **DevOps, Tools & Design**
 <br/>
@@ -107,22 +104,10 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=CAPABILITIES&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-| Domain | Technologies |
-|---|---|
-| **Frontend (Mobile)** | Flutter, React Native |
-| **Frontend (Web)** | React, Next.js |
-| **Backend** | Node.js, Express, MongoDB |
-| **Applied AI** | Anthropic API, Pinecone (vector search), Algolia (search relevance), Supabase |
-| **Deployment** | Vercel |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=CURRENTLY%20FINE-TUNING%20ON&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=ACTIVE%20PROCESSES&fontSize=26&fontColor=22D3EE&animation=fadeIn" width="100%"/>
 
 <table>
-<tr><th align="left" width="24%">Checkpoint</th><th align="left">Details</th></tr>
+<tr><th align="left" width="24%">Process</th><th align="left">Details</th></tr>
 
 <tr>
 <td>🔍 <strong>Select AI Tools</strong><br/><sub>selectaitool.com</sub></td>
@@ -148,7 +133,7 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=ADDITIONAL%20CHECKPOINTS&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=ARCHIVED%20PROCESSES&fontSize=26&fontColor=A78BFA&animation=fadeIn" width="100%"/>
 
 <details>
 <summary><strong>FaceTrace</strong> — forensic AI sketch generation (Flutter)</summary><br/>
@@ -170,9 +155,9 @@ Helmet detection (computer vision safety system), customer review NLP scraper, c
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=OPERATING%20PRINCIPLES&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=CORE%20DIRECTIVES&fontSize=26&fontColor=F472B6&animation=fadeIn" width="100%"/>
 
-| Principle | In Practice |
+| Directive | In Practice |
 |---|---|
 | 🎯 **Outcome-first** | Every build is scoped to the business problem, not the tech stack |
 | ⚡ **Lean by default** | Minimal new infrastructure — extend what already exists |
@@ -181,7 +166,7 @@ Helmet detection (computer vision safety system), customer review NLP scraper, c
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=LIMITATIONS%20%26%20CONSIDERATIONS&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=KNOWN%20CONSTRAINTS&fontSize=22&fontColor=22D3EE&animation=fadeIn" width="100%"/>
 
 - Optimized for lean teams and fast iteration — not tuned for slow, heavily bureaucratic environments
 - Prioritizes shipping a working version over exhaustive upfront documentation
@@ -189,7 +174,7 @@ Helmet detection (computer vision safety system), customer review NLP scraper, c
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,50:8b5cf6,100:ec4899&height=90&section=header&text=VERSION%20HISTORY&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=BUILD%20LOG&fontSize=28&fontColor=A78BFA&animation=fadeIn" width="100%"/>
 
 | Version | Milestone |
 |---|---|
@@ -201,16 +186,16 @@ Helmet detection (computer vision safety system), customer review NLP scraper, c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ec4899,50:8b5cf6,100:4facfe&height=90&section=header&text=REQUEST%20ACCESS&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,50:0f172a,100:1e1b4b&height=90&section=header&text=ESTABLISH%20CONNECTION&fontSize=26&fontColor=F472B6&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&height=40&lines=%3E+open+to+new+projects+and+collaborations" alt="contact line"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&color=00FF9D&background=000000&center=true&vCenter=true&width=750&height=40&lines=%3E+channel+open+%E2%80%94+available+for+new+projects" alt="contact line"/>
 
-<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
+<a href="https://wa.me/923363506933"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF9D"/></a>
+<a href="https://www.linkedin.com/in/muzamil-khan-6840b2292/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:4facfe&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0f172a,100:000000&height=160&section=footer" width="100%"/>
 
 </div>

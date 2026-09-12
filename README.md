@@ -1,46 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=MUZAMIL%20KHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Builder&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=260&section=header&text=MUZAMIL%20KHAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Builder&descAlignY=52&descAlign=50" width="100%"/>
 
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&height=90&lines=Hey%2C+I'm+Muzamil+%F0%9F%91%8B;I+build+full-stack+web+%26+mobile+products;From+idea+%E2%9E%9C+design+%E2%9E%9C+deployment;Currently+preparing+for+grad+school+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" />
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-2c5364?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Zaibten)
-[![Email](https://img.shields.io/badge/Email-Message%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muzamilkhanofficials@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzamil-khan-6840b2292/)
-[![Visitors](https://komarev.com/ghpvc/?username=Zaibten&style=flat-square&color=2c5364&label=Visitors)](https://github.com/Zaibten)
-
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
-</p>
-
----
-
-### 🧭 About Me
-
-- 💻 Full-stack developer working across **web, mobile, and backend systems**
-- 🛠️ Comfortable with **Node.js/Express, React, React Native, and Flutter**
-- ☁️ Ship apps on **Vercel**, backed by **MongoDB Atlas**, with search powered by **Algolia**
-- 🎓 Preparing for graduate studies in **Software Engineering in Germany**
-- 🌱 Always exploring new tools, frameworks, and better ways to ship software
-- ⚡ Fun fact: I'd rather refactor a messy function than leave it alone
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=850&height=90&lines=Hey%2C+I'm+Muzamil+%F0%9F%91%8B;I+design+%2B+build+full-stack+web+%26+mobile+products;From+idea+%E2%9E%9C+architecture+%E2%9E%9C+deployment;Currently+preparing+for+grad+school+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00C6FF)](https://github.com/Zaibten)
+[![Email](https://img.shields.io/badge/Email-Message%20Me-0f2027?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:muzamilkhanofficials@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muzamil-khan-6840b2292/)
+[![Visitors](https://komarev.com/ghpvc/?username=Zaibten&style=for-the-badge&color=0f2027&label=Visitors)](https://github.com/Zaibten)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&width=100%25" width="100%"/>
+
+## 🧭 About Me
+
+<img align="right" width="230" src="https://media.giphy.com/media/M9kIrjJKuKS0V4Yq2n/giphy.gif"/>
+
+- 💻 Full-stack developer working across **web, mobile, and backend systems**
+- 🛠️ Comfortable with **Node.js / Express, React, React Native, and Flutter**
+- ☁️ Ship apps on **Vercel**, backed by **MongoDB Atlas**, with search powered by **Algolia**
+- 🎓 Preparing for graduate studies in **Software Engineering in Germany**
+- 🌱 Always exploring new tools, frameworks, and cleaner ways to ship software
+- ⚡ Fun fact: I'd rather refactor a messy function than leave it alone
+
+<br clear="right"/>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&width=100%25" width="100%"/>
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,flutter,dart,ts,js,html,css,tailwind,bootstrap,python,django,dotnet,csharp,cpp,mysql,figma,git,github,docker,vscode,androidstudio,azure&perline=13" />
@@ -69,37 +63,20 @@
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&width=100%25" width="100%"/>
 
-### 📊 GitHub Activity — Live
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaibten&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaibten&theme=radical&hide_border=true" height="165"/>
-</p>
+## 📈 Skill Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaibten&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22React%20%2F%20React%20Native%22%2C%22Node.js%20%2F%20Express%22%2C%22Flutter%22%2C%22MongoDB%20Atlas%22%2C%22TypeScript%22%2C%22Cloud%20(Vercel%20%2F%20Azure)%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22data%22%3A%5B90%2C88%2C82%2C80%2C75%2C85%5D%2C%22backgroundColor%22%3A%5B%22%2300c6ff%22%2C%22%230072ff%22%2C%22%2300c6ff%22%2C%22%230072ff%22%2C%22%2300c6ff%22%2C%22%230072ff%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Core%20Skill%20Set%22%2C%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A20%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22max%22%3A100%2C%22ticks%22%3A%7B%22color%22%3A%22%23c9d1d9%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%2321262d%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23c9d1d9%22%2C%22font%22%3A%7B%22size%22%3A13%7D%7D%2C%22grid%22%3A%7B%22color%22%3A%22%2321262d%22%7D%7D%7D%7D%7D&backgroundColor=%230d1117&width=650&height=380&devicePixelRatio=2" width="49%"/>
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%22%2C%22Mobile%22%2C%22Cloud%2FDevOps%22%2C%22Databases%22%2C%22UI%2FUX%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Focus%20Areas%22%2C%22data%22%3A%5B85%2C88%2C84%2C78%2C82%2C70%5D%2C%22backgroundColor%22%3A%22rgba(0%2C198%2C255%2C0.25)%22%2C%22borderColor%22%3A%22%2300c6ff%22%2C%22pointBackgroundColor%22%3A%22%2300c6ff%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Focus%20Areas%22%2C%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A20%7D%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22%2321262d%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%2321262d%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23c9d1d9%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%7D%2C%22suggestedMin%22%3A0%2C%22suggestedMax%22%3A100%7D%7D%7D%7D&backgroundColor=%230d1117&width=500&height=420&devicePixelRatio=2" width="38%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaibten&theme=redical&hide_border=true" width="90%"/>
-</p>
+<p align="center"><sub>Charts are generated on request via QuickChart — they render as static, reliable images (no flaky third-party services).</sub></p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zaibten&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&width=100%25" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaibten&theme=transparent" width="0" height="0" hidden/>
-  <img src="https://raw.githubusercontent.com/Zaibten/Zaibten/output/github-contribution-grid-snake.svg" alt="contribution snake" width="90%"/>
-</p>
-
-> 💡 The snake animation above is generated live by a GitHub Action each day from your real contribution graph — setup steps are below.
-
----
-
-### 🚀 Featured Work
+## 🚀 Featured Work
 
 <table align="center">
 <tr>
@@ -184,54 +161,9 @@ Manages hospital resources, staff, and patient records.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&width=100%25" width="100%"/>
 
-### 📡 Real-Time Widgets Setup (optional)
-
-To keep the sections above genuinely live, add these to your **profile repo** (`Zaibten/Zaibten`):
-
-<details>
-<summary>🐍 Contribution Snake — updates automatically every day</summary>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Zaibten
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
-```
-
-Push it once and the snake SVG above will start refreshing itself daily.
-</details>
-
-<details>
-<summary>🎵 Currently coding to (Spotify) — optional live widget</summary>
-
-Use [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) to embed a live "Now Playing" badge if you'd like one — it updates in real time as you listen.
-</details>
-
----
-
-### 📬 Get In Touch
+## 📬 Get In Touch
 
 <p align="center">
 <a href="mailto:muzamilkhanofficials@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -246,4 +178,4 @@ Use [spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+great+together." />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=160&section=footer" width="100%"/>
